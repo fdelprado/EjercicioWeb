@@ -1,0 +1,47 @@
+.division4{
+	width: 400px;
+	height: 500px;
+	background-color: #4f9901;
+	float: right;
+}
+.division3{
+	width: 400px;
+	height: 500px;
+	background-color: #07e4f2;
+	float: left;
+}
+.division1{
+	width: 800px;
+	height: 600px;
+	background-color: #fc9ffe;
+}
+.division2{
+	width: 800px;
+	height: 600px;
+	background-color: #07e4f2;
+}
+body{
+	font-size: 12px;
+}
+h1{
+	color: green;	
+}
+p{
+	color: red;
+	text-align: center;
+}
+#titulo{
+	color: yellow;
+	background-color: black;
+}
+#subtitulo{
+	color: gold;
+	background-color: blue;
+}
+.contenido{
+	color: white;
+	text-align: right;
+}
+.fondos{
+	background-color: pink;
+}
